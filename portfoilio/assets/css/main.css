@@ -2443,3 +2443,8 @@ input, select, textarea {
 					}
 
 	}
+
+	/*********   Personal styles  **************/
+	i{
+		font-size: 6rem;
+	}
